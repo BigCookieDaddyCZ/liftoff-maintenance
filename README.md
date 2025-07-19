@@ -2,7 +2,7 @@
 
 🚀 **A powerful WordPress maintenance mode plugin with beautiful themes, countdown timers, and advanced customization options.**
 
-[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/bigcookiedaddy/liftoff-maintenance)
+[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/bigcookiedaddycz/liftoff-maintenance)
 [![WordPress](https://img.shields.io/badge/wordpress-5.0%2B-blue.svg)](https://wordpress.org/)
 [![License](https://img.shields.io/badge/license-GPL%20v2%2B-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
